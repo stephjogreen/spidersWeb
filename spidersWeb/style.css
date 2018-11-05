@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto|Source+Code+Pro');
+
+html, body {
+    height: 100%;
+    line-height: 1.5rem;
+    width: 100%;
+    margin: 0 1rem 0 1rem;
+    font-family: "source code pro", "open sans", sans-serif;
+    
+  }
+
+
+
+
+  /*header*/
+
+.container1 {
+    font-family: "roboto", "helvetica", "sans-serif";
+    display: flex;
+    justify-content: space-between;
+    padding: 0 1rem 0 1rem;
+    overflow: hidden; 
+}
+
+.container2 {
+    display: flex;
+    justify-content: space-between;
+    background-color: #F50000;
+    padding: 0 1rem 0 1rem;
+    overflow: hidden;
+}
+
+.rating {
+    height: 40px;
+    padding-top: 14px;
+}
+
+/*intro*/
+
+.container3 {
+    background-image: url("images/lisbeth1image.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 25rem;
+    width: 100%;
+    overflow: hidden;
+}
+
+h1 {
+    color: #F50000;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 12rem;
+    width: 60%;
+    font-weight: bolder;
+    
+}
+
+h2 {
+    color: #ffffff;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 6rem;
+
+}
+
+/*synopsis*/
+
+.container4 {
+    justify-content: space-between;
+    padding: 0 1rem 0 1rem;
+    overflow: hidden;
+}
+
+/*trailer*/
+
+.container5 {
+    background-image: url("images/trailerImage.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 20rem;
+    width: 100%;
+    overflow: hidden;
+}
+
+.button {
+    background-color: #fff;
+    color: #000;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.trailer {
+    display: flex;
+    justify-content: center;
+    padding-top: 15rem;
+}
+
+/*cast*/
+
+.list {
+    list-style-type: none;
+}
+
+/*tickets*/
+
+.container6 {
+    background-image: url("images/lisbeth2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 20rem;
+    width: 100%;
+    overflow: hidden;
+    color: #ffffff;
+    padding-left: 2rem;
+}
+
+.container7 {
+    font-family: "roboto", "helvetica", "sans-serif";
+    display: flex;
+    justify-content: space-between;
+    padding: 0 1rem 0 1rem;
+    overflow: hidden; 
+    background-color: #484848;
+    color: #ffffff;
+}
+
