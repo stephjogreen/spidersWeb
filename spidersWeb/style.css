@@ -4,11 +4,9 @@ html, body {
     height: 100%;
     line-height: 1.5rem;
     width: 100%;
-    margin: 0 1rem 0 1rem;
     font-family: "source code pro", "open sans", sans-serif;
     
   }
-
 
 
 
@@ -115,8 +113,14 @@ h2 {
     width: 100%;
     overflow: hidden;
     color: #ffffff;
+}
+
+.tickets {
     padding-left: 2rem;
 }
+
+
+/*footer*/
 
 .container7 {
     font-family: "roboto", "helvetica", "sans-serif";
